@@ -6,4 +6,4 @@
 - 🌱 I’m currently improving my skills with **[Go](https://go.dev)**.
 - 💬 Ask me about **Java**.
 - 📫 How to reach me: **My [website](https://www.codehat.de) has more contact information**.
-- ⚡ Fun fact: **I got my degree under the regular study period (`5 3/4` of `6`).**
+- ⚡ Fun fact: **I like multi tasking.**
